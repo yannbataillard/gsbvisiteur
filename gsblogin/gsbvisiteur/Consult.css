@@ -1,0 +1,10 @@
+img{
+    height: 45px;
+    width: 45px;
+    float: left;
+  
+  }
+
+  body{
+    background : linear-gradient(180deg, lightyellow, orange);
+  }
